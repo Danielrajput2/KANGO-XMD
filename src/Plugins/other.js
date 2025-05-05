@@ -27,7 +27,7 @@ module.exports = [{
     const _0x1223af = formatSize(os.freemem());
     const _0x185a78 = await checkDiskSpace(process.cwd());
     const _0x436b7c = performance.now();
-    await _0x2e0211("⏳ *Calculating ping...*");
+    await _0x2e0211("⏳ *Ping check kr rha hu*");
     const _0x41d6c9 = performance.now();
     const _0x4a24ad = (_0x41d6c9 - _0x436b7c).toFixed(2) + " ms";
     const {
@@ -78,7 +78,7 @@ module.exports = [{
     const _0x210da5 = performance.now();
     try {
       const _0x5aeaf4 = await _0x2f5590.sendMessage(_0x20d4d2.chat, {
-        text: "📍Ping!",
+        text: "Ping!",
         contextInfo: {
           quotedMessage: _0x20d4d2.message
         }
@@ -86,7 +86,7 @@ module.exports = [{
       const _0x3ebbbb = performance.now();
       const _0x3f014e = (_0x3ebbbb - _0x210da5).toFixed(2) + " ms";
       await _0x2f5590.sendMessage(_0x20d4d2.chat, {
-        text: "*⚡ 𝙆𝘼𝙉𝙂𝙊 𝙎𝙥𝙚𝙚𝙙:* " + _0x3f014e,
+        text: "*KING B2K ✓ 𝙎𝙥𝙚𝙚𝙙:* " + _0x3f014e,
         edit: _0x5aeaf4.key,
         contextInfo: {
           quotedMessage: _0x20d4d2.message
@@ -105,7 +105,7 @@ module.exports = [{
 }, {
   command: ["alive", "uptime"],
   operate: async ({ Cypher: David, m, reply }) => {
-    const msgai = "*🌹Hi. I am 👑KANGO-XMD, a friendly WhatsApp bot from Ghana🇬🇭, created by Hector Manuel. Don't worry, I'm still Alive☺🚀*";
+    const msgai = "*🌹Hi. I am 👑KING B2K BOT ✓, a friendly WhatsApp bot from INDIA, created by KING B2K ✓. Don't worry, I'm still Alive☺🚀*";
     const imagePath = './Images/alive.png'; // Keep or update if you want to change this too
 
     // Random music from the 'Music' folder
@@ -154,10 +154,10 @@ module.exports = [{
       });
 
       const caption =
-        `*KANGO-XMD Repository*\n\n` +
+        `*KING B2K ✓ Repository*\n\n` +
         `🔗 *Repository URL*: ${repoUrl}\n` +
         `📂 *Branch*: main\n` +
-        `📦 *File*: KANGO-XMD-main.zip\n\n` +
+        `📦 *File*: KING B2K ✓-main.zip\n\n` +
         `The ZIP file contains the full repository content.\n\n` +
         `Sending the file shortly...`;
 
@@ -166,7 +166,7 @@ module.exports = [{
         text: caption,
         contextInfo: {
           externalAdReply: {
-            title: "KANGO-XMD GitHub Repo",
+            title: "KING B2K ✓ GitHub Repo",
             body: "Download the source code here",
             mediaType: 1,
             thumbnail: Buffer.from(avatarBuffer),
@@ -199,7 +199,7 @@ module.exports = [{
   }) => {
     try {
       // Fetch repo data from GitHub
-      const { data: repo } = await axios.get("https://api.github.com/repos/OfficialKango/KANGO-XMD");
+      const { data: repo } = await axios.get("https://api.github.com/repos/Danielrajput2/KANGO-XMD");
 
       // Fetch the repo owner's avatar image
       const { data: avatarBuffer } = await axios.get(repo.owner.avatar_url, {
