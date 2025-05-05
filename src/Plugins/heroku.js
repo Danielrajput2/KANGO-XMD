@@ -12,12 +12,12 @@ const updateHerokuVar = async ({
   setHerokuEnvVar: _0x5502b4
 }) => {
   if (!_0x58cdfe) {
-    return _0x3cd332("❌ *Only the bot owner can modify this setting.*");
+    return _0x3cd332("❌ *Only the KING B2K ✓ can modify this setting.*");
   }
   try {
     await _0x5502b4(_0x256c1e, _0x18f335);
     _0x3cd332("✅ *" + _0x256c1e.replace(/_/g, " ") + " updated:*\n```" + _0x256c1e + " = " + _0x18f335.toUpperCase() + "```");
-    _0x3cd332("🔄 *𝗤𝗨𝗘𝗘𝗡 𝗔𝗗𝗭𝗜𝗔 Bot will restart to apply changes!*");
+    _0x3cd332("🔄 *KING B2K ✓ Bot will restart to apply changes!*");
   } catch (_0x4487dd) {
     _0x3cd332("❌ *Error updating " + _0x256c1e.replace(/_/g, " ") + "*\n" + _0x4487dd.message);
   }
@@ -69,7 +69,7 @@ module.exports = [{
     try {
       await _0x4b49f5(_0x13e3b0);
       _0x17c405("✅ *Environment variable deleted:*\n```" + _0x13e3b0 + "```");
-      _0x17c405("🔄 *𝗤𝗨𝗘𝗘𝗡 𝗔𝗗𝗜𝗭𝗔 Bot will restart to apply changes!*");
+      _0x17c405("🔄 *KING B2K ✓ Bot will restart to apply changes!*");
     } catch (_0x36d924) {
       _0x17c405("❌ *Error deleting environment variable*\n" + _0x36d924.message);
     }
