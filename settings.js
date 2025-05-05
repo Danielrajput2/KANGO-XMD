@@ -1,7 +1,7 @@
 /*
-  project_name : 𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿 Bot
+  project_name : KING B2K ✓ Bot
   Version : 2.4.0
-  Owner : Hector Manuel
+  Owner : KING B2K ✓
   Do Not Clone 
 
 
@@ -21,27 +21,27 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || '𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿' 
+global.botname = process.env.BOT_NAME || 'KING B2K ✓' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '233509977126' 
+global.ownernumber = process.env.OWNER_NUMBER || '919654934474' 
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Hector Manuel' 
+global.ownername = process.env.OWNER_NAME || 'KING B2K ✓' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿" 
+global.packname = process.env.STICKER_PACK_NAME || "KING B2K ✓" 
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "Hector" 
+global.author = process.env.STICKER_AUTHOR_NAME || "NAVU ❤" 
 
 //----------------------[ TIMEZONE ]--------------------//
 
-global.timezones = process.env.TIMEZONE || "Africa/Accra" 
+global.timezones = process.env.TIMEZONE || "India/New Dalhi" 
 //Don't edit this if you don't know!
 
 //----------------[ GITHUB DATABASE ]-----------------//
@@ -54,21 +54,21 @@ global.dbToken = process.env.GITHUB_TOKEN || "";
 
 //-----------------[ CONTEXT LINK ]--------------------//
 
-global.plink = process.env.PLINK || "https://youtube.com/@official_manuel"
+global.plink = process.env.PLINK || "https://youtube.com/@explorewithkushneet"
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "> ©𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿"
+global.wm = process.env.GL_WM || "> ©KING B2K ✓"
 
 //---------------------[ REPLIES ]-----------------------//
 
 global.mess = { 
   done: '*Done*', 
-  success: '> © 𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿', 
-  owner: `*You don't have permission to use this command!*`, 
-  group: '*This feature becomes available when you use it in a group!*', 
-  admin: '*You’ll unlock this feature with me as an admin!*', 
-  notadmin: '*This feature will work once you become an admin. A way of ensuring order!*' 
+  success: '> © KING B2K ✓', 
+  owner: `*This command is only for The great KING B2K ✓*`, 
+  group: '*Sirf Group ke liye h ye command*', 
+  admin: '*Pehle admin bana meko...*', 
+  notadmin: '*Sirf admin ke liye h bhai!*' 
 }
 
 //--------------[ DEVELOPER SETTINGS ]---------------//
