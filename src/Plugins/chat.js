@@ -29,8 +29,8 @@ module.exports = [{
         _0x2fb246(_0x56fa21.data);
       }
     } catch (_0x55300f) {
-      console.error("Error fetching response from Kango-Ai API:", _0x55300f);
-      _0x2fb246("An error occurred while fetching the response from KangoAI API.");
+      console.error("Error fetching response from KING B2K ✓-Ai API:", _0x55300f);
+      _0x2fb246("An error occurred while fetching the response from KING B2K ✓-AI API.");
     }
   }
 }, {
@@ -77,8 +77,8 @@ module.exports = [{
         _0x1bf876(_0xfb82b.BK9);
       }
     } catch (_0x33f4ab) {
-      console.error("Error fetching response from Hector AI API:", _0x33f4ab);
-      _0x1bf876("An error occurred while fetching the response from Hector AI API.");
+      console.error("Error fetching response from KING B2K ✓ AI API:", _0x33f4ab);
+      _0x1bf876("An error occurred while fetching the response from KING B2K ✓ AI API.");
     }
   }
 }, {
@@ -128,8 +128,8 @@ module.exports = [{
         _0x39feca(_0x17ddbc.data);
       }
     } catch (_0x2f587b) {
-      console.error("Error fetching response from DBRX API:", _0x2f587b);
-      _0x39feca("An error occurred while fetching the response from DBRX API.");
+      console.error("Error fetching response from KING B2K ✓ API:", _0x2f587b);
+      _0x39feca("An error occurred while fetching the response from KING B2K ✓ API.");
     }
   }
 }, {
@@ -152,8 +152,8 @@ module.exports = [{
         _0xeb9056(_0x4c3987.data);
       }
     } catch (_0x2f1d83) {
-      console.error("Error fetching response from DeepSeek-R1 API:", _0x2f1d83);
-      _0xeb9056("An error occurred while fetching the response from DeepSeek-R1 API.");
+      console.error("Error fetching response from KING B2K ✓-R1 API:", _0x2f1d83);
+      _0xeb9056("An error occurred while fetching the response from KING B2K ✓-R1 API.");
     }
   }
 }, {
